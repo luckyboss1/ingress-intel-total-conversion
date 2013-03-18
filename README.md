@@ -1,3 +1,5 @@
+This repository is the save for Ingress Besancon Resistance
+
 ingress intel total conversion (IITC)
 =====================================
 
